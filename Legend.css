@@ -1,0 +1,104 @@
+body{
+	margin: 0;
+	background-image: url(https://impactalpha.com/wp-content/uploads/2019/07/wp3776648.jpg);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+  	color: white;
+  	font-family: helvetica;
+  	line-height: 30px;
+  	
+}
+
+header{
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+
+header img{
+	border-radius:700px;
+	width: 400px;
+	border: 2px solid white;
+}
+
+
+header h1{
+	font-size: 80px;
+	color: black;
+}
+
+
+h1, h2{
+	font-family: 'Julius Sans One', sans-serif;
+	text-align: center;
+}
+
+main :not(img){
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+	margin-bottom: 25px;
+}
+
+main img{
+	max-width: 100%;
+	border: 2px solid white;
+	border-radius:700px;
+}
+
+
+
+
+h2{
+	font-size: 40px;
+	color: #FFD700;
+	
+}
+
+h2 img{
+	max-width: 100%;
+	border: 2px solid white;
+	border-radius:200px;
+	
+}
+
+
+
+
+
+footer p{
+	text-align: center;
+	padding: 5px;
+	font-size: 30px;
+	color: #000000;
+}
+
+p.caption{
+	margin: 1px;
+	font-size: 15px;
+	font-style: italic;
+	margin-top: 0;
+	margin-bottom: 40px;
+}
+
+ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+a:link {
+    text-decoration: underline;
+    padding-bottom: 6px;
+}
+
+
+
+
+
+p{
+	font-size: 20px;
+	color: black;
+}
